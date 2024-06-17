@@ -1,0 +1,2 @@
+# ariano
+tecnicas computacionais
